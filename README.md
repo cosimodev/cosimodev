@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=MIHNOC%20COSMIN%20ANTON&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ARCHITETTO%20DIGITALE%20%7C%20CLOUD%20INNOVATOR%20%7C%20PERFORMANCE%20ENGINEER&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=MIHOC%20COSMIN%20ANTON&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ARCHITETTO%20DIGITALE%20%7C%20CLOUD%20INNOVATOR%20%7C%20PERFORMANCE%20ENGINEER&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- Dynamic Typing Animation -->
